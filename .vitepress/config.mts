@@ -10,6 +10,10 @@ export default defineConfig({
       provider: 'local'
     },
 
+    lastUpdated: {
+      text: 'Last updated: '
+    },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
