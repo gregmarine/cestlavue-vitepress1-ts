@@ -1,6 +1,5 @@
 ---
 title: Example
-lastUpdated: true
 ---
 ## Example Test Blah
 

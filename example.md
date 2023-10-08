@@ -1,6 +1,5 @@
 ---
 title: Root Example
-lastUpdated: true
 ---
 ## Root Example
 
