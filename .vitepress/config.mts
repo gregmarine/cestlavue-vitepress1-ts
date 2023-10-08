@@ -11,7 +11,7 @@ export default defineConfig({
     },
 
     lastUpdated: {
-      text: 'Last updated: '
+      text: 'Last updated'
     },
 
     nav: [
