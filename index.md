@@ -23,3 +23,4 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<PreviewCard title="Example" excerpt="Blah blah blah" image="" href="/blog/example" date="2023-10-10" />
