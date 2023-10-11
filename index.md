@@ -1,10 +1,8 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
 hero:
-  name: "C'est la Vue"
-  text: "VitePress CMS with TypeScript Support"
+  name: C'est la Vue - VitePress
+  text: VitePress CMS with TypeScript Support
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -13,7 +11,6 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
