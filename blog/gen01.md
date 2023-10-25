@@ -2,12 +2,10 @@
 title: Genesis 1
 lastUpdated: true
 ---
-## The First Book of Moses
-### Commonly Called
-### Genesis
-### 1
+## Genesis 1
+### The First Book of Moses, Commonly Called Genesis
 
-*1* In the beginning, God[^1] created the heavens and the earth. *2* The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
+**1** In the beginning, God[^1] created the heavens and the earth. **2** The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 
 </div>
 
