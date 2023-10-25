@@ -1,31 +1,12 @@
--   [Genesis](index.htm)
--   [\<](FRT01.htm)
--   [1](GEN.htm)
--   [\>](GEN02.htm)
+---
+title: Genesis 1
+lastUpdated: true
+---
 
-<div class="main" markdown="1">
-
-<div class="mt2" markdown="1">
-
-The First Book of Moses,
-
-</div>
-
-<div class="mt3" markdown="1">
-
-Commonly Called
-
-</div>
-
-<div class="mt" markdown="1">
-
-Genesis
-
-</div>
-
-<div id="V0" class="chapterlabel" markdown="1">
-
-1
+## The First Book of Moses
+### Commonly Called
+### Genesis
+### 1
 
 </div>
 
