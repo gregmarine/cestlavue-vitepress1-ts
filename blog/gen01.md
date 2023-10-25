@@ -2,22 +2,12 @@
 title: Genesis 1
 lastUpdated: true
 ---
-
 ## The First Book of Moses
 ### Commonly Called
 ### Genesis
 ### 1
 
-</div>
-
-<div class="p" markdown="1">
-
-<span id="V1" class="verse">1 </span>In the beginning,
-God<a href="#FN1" class="notemark">†<span class="popup"> The Hebrew word
-rendered “God” is “אֱלֹהִ֑ים” (Elohim).</span></a> created the heavens and
-the earth. <span id="V2" class="verse">2 </span>The earth was formless
-and empty. Darkness was on the surface of the deep and God’s Spirit was
-hovering over the surface of the waters.
+*1* In the beginning, God[^1] created the heavens and the earth. *2* The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 
 </div>
 
@@ -146,9 +136,7 @@ morning, a sixth day.
 
 ------------------------------------------------------------------------
 
-<span class="notemark">†</span><a href="#V1" class="notebackref">1:1</a>
-<span class="ft">The Hebrew word rendered “God” is “אֱלֹהִ֑ים”
-(Elohim).</span>
+[^1]: 1:1 The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).
 
 <span class="notemark">‡</span><a href="#V29" class="notebackref">1:29</a>
 <span class="ft">“Behold”, from “הִנֵּה”, means look at, take notice,
