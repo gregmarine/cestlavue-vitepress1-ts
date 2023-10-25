@@ -7,30 +7,10 @@ lastUpdated: true
 
 **1** In the beginning, God[^1] created the heavens and the earth. **2** The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 
-</div>
+**3** God said, “Let there be light,” and there was light. **4** God saw the light,
+and saw that it was good. God divided the light from the darkness. **5** God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day.
 
-<div class="p" markdown="1">
-
-<span id="V3" class="verse">3 </span>God said, “Let there be light,” and
-there was light. <span id="V4" class="verse">4 </span>God saw the light,
-and saw that it was good. God divided the light from the darkness.
-<span id="V5" class="verse">5 </span>God called the light “day”, and the
-darkness he called “night”. There was evening and there was morning, the
-first day.
-
-</div>
-
-<div class="p" markdown="1">
-
-<span id="V6" class="verse">6 </span>God said, “Let there be an expanse
-in the middle of the waters, and let it divide the waters from the
-waters.” <span id="V7" class="verse">7 </span>God made the expanse, and
-divided the waters which were under the expanse from the waters which
-were above the expanse; and it was so. <span id="V8"
-class="verse">8 </span>God called the expanse “sky”. There was evening
-and there was morning, a second day.
-
-</div>
+**6** God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” **7** God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. **8** God called the expanse “sky”. There was evening and there was morning, a second day.
 
 <div class="p" markdown="1">
 
