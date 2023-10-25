@@ -141,21 +141,3 @@ morning, a sixth day.
 <span class="notemark">‡</span><a href="#V29" class="notebackref">1:29</a>
 <span class="ft">“Behold”, from “הִנֵּה”, means look at, take notice,
 observe, see, or gaze at. It is often used as an interjection.</span>
-
-------------------------------------------------------------------------
-
-</div>
-
-<div class="copyright" markdown="1">
-
-[Frequently Asked Questions](webfaq.htm) [The World English Bible is in
-the Public Domain. You may copy and share it freely.](copyright.htm)
-[Downloads](index.htm) [Please report any typos you
-find.](https://eBible.org/cgi-bin/comment.cgi)
-[Donations](https://mljohnson.org/partners/)
-
-[Public Domain](copyright.htm)
-
-</div>
-
-</div>
