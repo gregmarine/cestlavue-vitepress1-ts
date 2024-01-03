@@ -26,7 +26,7 @@ collections:
       - label: Home
         name: home
         format: frontmatter
-        file: index.md
+        file: src/index.md
         fields:
           - label: Hero
             name: hero
@@ -47,10 +47,10 @@ collections:
                   - { label: Text, name: text, widget: string }
                   - { label: Link, name: link, widget: string }
 
-  - label: Blog
-    name: blog
+  - label: Content
+    name: content
     label_singular: 'Post'
-    folder: blog
+    folder: src
     format: frontmatter
     create: true
     slug: '{{slug}}'

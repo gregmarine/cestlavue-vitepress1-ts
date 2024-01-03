@@ -22,5 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
-<PreviewCard title="Genesis Chapter 1" excerpt="Gen Ch 1 - In the beginning..." image="" href="/blog/gen01" date="2023-10-23" />
