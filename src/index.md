@@ -1,11 +1,9 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
 hero:
-  name: "C'est la Vue"
-  text: "VitePress CMS with TypeScript Support"
-  tagline: My great project tagline
+  name: TBD
+  text: Musings from a [something] mind
+  tagline: Something cleaver
   actions:
     - theme: brand
       text: Markdown Examples
@@ -13,7 +11,6 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
