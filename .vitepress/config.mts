@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "C'est la Vue",
+  title: "So, I was thinking...",
 
-  description: "VitePress CMS with TypeScript Support",
+  description: "Musings by Greg Marine",
  
   srcDir: "./src",
 
