@@ -1,9 +1,9 @@
 ---
 layout: home
 hero:
-  name: TBD
-  text: Musings from a [something] mind
-  tagline: Something cleaver
+  name: So, I was thinking...
+  text: Musings by Greg Marine
+  tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
       text: Markdown Examples
