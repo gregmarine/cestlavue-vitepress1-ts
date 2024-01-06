@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: New Year, New Blog!
-      link: /new-year-new-blog
+      link: /2024/01/05/
 features:
   - title: Coming soon...
     details: More content!

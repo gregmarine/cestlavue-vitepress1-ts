@@ -26,7 +26,7 @@ export default defineConfig({
       {
         text: 'Featured Entries',
         items: [
-          { text: 'New Year, New Blog', link: '/new-year-new-blog' },
+          { text: 'New Year, New Blog', link: '/2024/01/05/' },
         ]
       }
     ],

@@ -62,3 +62,22 @@ collections:
       - { label: Featured Image, name: featuredImage, widget: image, required: false }
       - { label: Body, name: body, widget: markdown }
       - { label: Tags, name: tags, widget: list }
+    hide: true
+
+  - label: Journal
+    name: journal
+    label_singular: 'Entry'
+    folder: src
+    format: frontmatter
+    create: true
+    nested:
+      depth: 3
+    meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: 'Separate paths with a forward slash "/" (Example: 2024/01/05)' } }
+    editor:
+      preview: false
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Show Last Updated, name: lastUpdated, widget: boolean, required: false, default: false }
+      - { label: Featured Image, name: featuredImage, widget: image, required: false }
+      - { label: Body, name: body, widget: markdown }
+      - { label: Tags, name: tags, widget: list }
