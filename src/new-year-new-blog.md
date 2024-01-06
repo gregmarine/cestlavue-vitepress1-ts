@@ -1,6 +1,6 @@
 ---
 title: New Year, New Blog
-lastUpdated: true
+lastUpdated: false
 ---
 # Happy 2024!!!
 
