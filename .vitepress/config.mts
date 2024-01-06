@@ -17,9 +17,9 @@ const getSideBar = (): any => {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "C'est la Vue",
+  title: "So, I was thinking...",
 
-  description: "VitePress CMS with TypeScript Support",
+  description: "Musings by Greg Marine",
  
   srcDir: "./src",
 
@@ -35,13 +35,15 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: getSideBar(),
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'twitter', link: 'https://twitter.com/bygregmarine' },
+      { icon: 'instagram', link: 'https://www.instagram.com/bygregmarine/' },
+      { icon: 'facebook', link: 'https://www.facebook.com/bygregmarine' },
+      { icon: 'github', link: 'https://github.com/ByGregMarine/blog' }
     ]
   }
 })
