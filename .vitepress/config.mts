@@ -32,6 +32,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
+      { icon: 'twitter', link: 'https://twitter.com/bygregmarine' },
+      { icon: 'instagram', link: 'https://www.instagram.com/bygregmarine/' },
+      { icon: 'facebook', link: 'https://www.facebook.com/bygregmarine' },
       { icon: 'github', link: 'https://github.com/ByGregMarine/blog' }
     ]
   }
