@@ -1,6 +1,3 @@
----
-order: 5
----
 # New Year, New Blog
 
 ## Happy 2024!!!
