@@ -13,7 +13,6 @@ const getSideBar = (): any => {
       capitalizeEachWords: true,
       hyphenToSpace: true,
       underscoreToSpace: true,
-      keepMarkdownSyntaxFromTitle: true,
     },
   ]);
   return generatedSidebar ?? [];
