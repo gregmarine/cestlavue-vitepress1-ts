@@ -1,4 +1,19 @@
 import { defineConfig } from 'vitepress'
+import { generateSidebar } from 'vitepress-sidebar';
+
+const getSideBar = (): any => {
+  const generatedSidebar = generateSidebar([
+    {
+      documentRootPath: '/src',
+      resolvePath: '/',
+      useTitleFromFileHeading: true,
+      useTitleFromFrontmatter: true,
+      hyphenToSpace: true,
+      keepMarkdownSyntaxFromTitle: true,
+    },
+  ]);
+  return generatedSidebar ?? [];
+};
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -23,16 +38,7 @@ export default defineConfig({
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Root Example', link: '/example' }
-        ]
-      }
-    ],
+    sidebar: getSideBar(),
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
