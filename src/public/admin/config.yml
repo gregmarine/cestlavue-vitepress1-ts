@@ -73,7 +73,7 @@ collections:
     nested:
       depth: 3
     slug: '{{day}}_{{slug}}'
-    meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: 'Separate paths with a forward slash "/" (Example: 2024/01)' } }
+    meta: { path: { widget: string, label: 'Path', index_file: '{{day}}_{{slug}}', hint: 'Separate paths with a forward slash "/" (Example: 2024/01)' } }
     editor:
       preview: false
     fields:
