@@ -6,10 +6,13 @@ const getSideBar = (): any => {
     {
       documentRootPath: '/src',
       resolvePath: '/',
-      useTitleFromFileHeading: true,
-      useTitleFromFrontmatter: true,
+      rootGroupText: 'Blog Entries',
+      collapsed: true,
+      sortMenusByName: true,
+      sortMenusOrderByDescending: true,
+      capitalizeEachWords: true,
       hyphenToSpace: true,
-      keepMarkdownSyntaxFromTitle: true,
+      underscoreToSpace: true,
     },
   ]);
   return generatedSidebar ?? [];

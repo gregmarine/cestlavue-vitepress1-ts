@@ -1,8 +1,6 @@
----
-title: New Year, New Blog
-lastUpdated: false
----
-# Happy 2024!!!
+# New Year, New Blog
+
+## Happy 2024!!!
 
 It is common for people to make New Year's resolutions to kick off every new year. I'm not actually one to do that, however. Although I do set goals for each year, I am not actually fond of the idea of "New Year's" resolutions. For me, any time I would do that, I would ultimately fail within the first few months of the year. So, I began making the New Year's resolution of "I'm not making a New Year's resolution!" And guess what!? I started succeeding...hehehe
 
