@@ -1,4 +1,19 @@
 import { defineConfig } from 'vitepress'
+import { generateSidebar } from 'vitepress-sidebar';
+
+const getSideBar = (): any => {
+  const generatedSidebar = generateSidebar([
+    {
+      documentRootPath: '/src',
+      resolvePath: '/',
+      useTitleFromFileHeading: true,
+      useTitleFromFrontmatter: true,
+      hyphenToSpace: true,
+      keepMarkdownSyntaxFromTitle: true,
+    },
+  ]);
+  return generatedSidebar ?? [];
+};
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -22,14 +37,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
     ],
 
-    sidebar: [
-      {
-        text: 'Featured Entries',
-        items: [
-          { text: 'New Year, New Blog', link: '/2024/01/05/' },
-        ]
-      }
-    ],
+    sidebar: getSideBar(),
 
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/bygregmarine' },
